@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    padding: O;
+    background-color:navajowhite;
+}
+.board{
+    
+}
+#sect h1{
+    margin-left: 440px;
+    margin-top: 80px;
+}
+#sect1 p{
+      margin-left: 300px;
+}
+.board .brd {
+    margin-left: 420px;
+    margin-top: 80px;
+}
+.board .brd h1{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.button{
+    margin-left: 500px;
+    margin-top: 100px;
+    font-size: 20px;
+    background-color: aqua;
+    color: rosybrown;
+}
