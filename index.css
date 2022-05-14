@@ -1,8 +1,12 @@
+
 body{
     margin: 0;
     padding: O;
-    background-color:navajowhite;
-}
+    background-color:burlywood;
+    
+}    
+    
+
 .board{
     
 }
@@ -27,4 +31,15 @@ body{
     font-size: 20px;
     background-color: aqua;
     color: rosybrown;
+}
+#quizz{
+    margin-left: 50px;
+    color: teal;
+    font-weight: bold;
+}
+.next #button{
+    margin-top: 80px;
+    color: rosybrown;
+    margin-left: 80px;
+    font-size: 20px;
 }
