@@ -17,9 +17,9 @@ function result(){
     if (q5=="in") (b++);
     if (q6=="The contents are displayed by non-JS-based browsers") (b++);
     if (q7=="All of the above") (b++);
-    if (q8=="javascript is a lightweight programing language") (b++);
-    if (q9=="javascript is a lightweight programing language") (b++);
-    if (q10=="javascript is a lightweight programing language") (b++);
+    if (q8=="stringify()") (b++);
+    if (q9=="Class,prototype,object's extensible flag") (b++);
+    if (q10=="All of the above") (b++);
     document .write(b);
 
 }
