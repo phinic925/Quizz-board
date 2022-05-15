@@ -23,3 +23,4 @@ function result(){
     }
     
 }
+document.write(b);
