@@ -4,16 +4,19 @@ body{
     padding: O;
     background-color:burlywood;
     
-}    
+} 
+.board{
+    color: teal;
+}   
     
 
 
 h1{
     margin-left: 400px;
-    margin-top: 80px;
+    margin-top: 100px;
 }
 #sect1 p{
-      margin-left: 230px;
+      margin-left: 280px;
       margin-top: 40px;
 }
 .board .brd {
@@ -26,7 +29,7 @@ h1{
 }
 .button{
     margin-left: 420px;
-    margin-top: 100px;
+    margin-top: 50px;
     font-size: 20px;
     background-color: aqua;
     color: rosybrown;
@@ -40,14 +43,15 @@ h1{
     font-size: 20px;
     margin-top: 30px;
     color: rosybrown;
+    background-color: aqua;
 }
 
 
 #full{
     margin-left: 400px;
-    margin-top: 100px;
-    border: 2px dotted darkorange;
-    width: 300px;
+    margin-top: 80px;
+    border: 2px dotted wheat;
+    width: 350px;
     
 }
 #full #button{
