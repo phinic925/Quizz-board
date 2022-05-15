@@ -7,7 +7,7 @@ function result(){
     var q5 = document.script.question5.value;
    
     
-    if (q1=="parse") {b++}
+    if (q1=="Variables") {b++}
     if (q2=="object-oriented") {b++}
     if (q3=="const") {b++}
     if (q4=="let") {b++}
