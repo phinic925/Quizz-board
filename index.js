@@ -16,10 +16,10 @@ function result(){
     
     script.style .display ="none";
     if (b<=3) {
-        result.textContent ='Your score is ${b}. Try to improve next time.'
+        result.textContent =`Your score is ${b/5*100}%. Try to improve next time.`
     }
     else {
-        result .textContent= 'Your score is ${b}. Congrats!'
+        result .textContent= `Your score is ${b/5*100}%. Congrats!`
     }
     
 }
