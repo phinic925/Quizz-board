@@ -2,7 +2,7 @@
 # Quizz-board
  ## by phinic nyangate
 ## Screenshot
- ![image](./assets/images.png)
+
  ## Table of Content
  - [Description](#description)
  - [Features](#features)
